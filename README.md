@@ -5,6 +5,9 @@ TODO
 # Docker
   - https://hackernoon.com/docker-tutorial-getting-started-with-python-redis-and-nginx-81a9d740d091
   
+# Contatos das operadoras
+  - https://melhorplano.net/blog/quer-saber-como-falar-com-a-vivo-oi-claro-ou-tim-confira-as-dicas-3/
+  
 # Net Virtua
   - 010193625542882
   - 010193625724910
