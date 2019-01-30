@@ -2,6 +2,9 @@
 TODO
 
 
+# Docker
+  - https://hackernoon.com/docker-tutorial-getting-started-with-python-redis-and-nginx-81a9d740d091
+  
 # Net Virtua
   - 010193625542882
   - 010193625724910
